@@ -1,0 +1,16 @@
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advancedd.exe
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advancedd.deps.json
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advancedd.runtimeconfig.json
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advancedd.runtimeconfig.dev.json
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advancedd.dll
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\ref\07. List Manipulation Advancedd.dll
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advancedd.pdb
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.csproj.AssemblyReference.cache
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.AssemblyInfoInputs.cache
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.AssemblyInfo.cs
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.csproj.CoreCompileInputs.cache
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.dll
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\ref\07. List Manipulation Advancedd.dll
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.pdb
+C:\Users\35987\source\repos\Lists - Lab - 15.06.2022\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advancedd.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.exe
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.deps.json
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\ref\09. Pokemon Don't Go.dll
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.AssemblyReference.cache
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\ref\09. Pokemon Don't Go.dll
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Users\35987\source\repos\Lists - Exercise - 17.06.2022\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.genruntimeconfig.cache

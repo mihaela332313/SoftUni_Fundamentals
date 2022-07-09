@@ -1,0 +1,14 @@
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\bin\Debug\netcoreapp3.1\01. Sign of Integer Numberss.exe
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\bin\Debug\netcoreapp3.1\01. Sign of Integer Numberss.deps.json
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\bin\Debug\netcoreapp3.1\01. Sign of Integer Numberss.runtimeconfig.json
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\bin\Debug\netcoreapp3.1\01. Sign of Integer Numberss.runtimeconfig.dev.json
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\bin\Debug\netcoreapp3.1\01. Sign of Integer Numberss.dll
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\bin\Debug\netcoreapp3.1\01. Sign of Integer Numberss.pdb
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.csproj.AssemblyReference.cache
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.AssemblyInfoInputs.cache
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.AssemblyInfo.cs
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.csproj.CoreCompileInputs.cache
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.dll
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.pdb
+C:\Users\35987\source\repos\Methods - Lab\01. Sign of Integer Numberss\obj\Debug\netcoreapp3.1\01. Sign of Integer Numberss.genruntimeconfig.cache
